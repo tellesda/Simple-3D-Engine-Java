@@ -1,9 +1,9 @@
 # Simple-3D-Engine-Java
-This is a simple 3D engine made without external libraries except java Graphics. 
+This is a simple 3D engine made without external libraries except java Graphics. I do not recommend using this, because there are much better options like LWJGL or OpenGL. 
 
 Features:
-  - You can move the camera with the keys W,A,S,D and the arrows UP,DOWN,LEFT,RIGHT to explore the scene.
-  - You can (add/edit) some .txt and .obj files to make custom scenes.
+  - Move the camera with the W, A, S, D keys and the UP, DOWN, LEFT, RIGHT arrows to explore the scene.
+  - Load your own .obj files or modify worlds' data to make your own scenes.
 
 ![figure 1](https://user-images.githubusercontent.com/57646462/153727314-9633bf8c-4fbd-463d-aed4-14a20ed754cd.png)
 

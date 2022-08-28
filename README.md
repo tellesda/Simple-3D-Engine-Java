@@ -3,7 +3,7 @@ Simple 3D engine made without external libraries.
 
 Features:
   - Object loading using .obj files
-  - Scene loading from .txt files
+  - Scene loading using .txt files
   - Camera clipping
   - Basic camera movement
 
